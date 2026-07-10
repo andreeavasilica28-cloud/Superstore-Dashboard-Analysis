@@ -88,13 +88,12 @@ The business is generating solid revenue but leaving money on the table (literal
 
 ## 🛠️ Tools Used
 
-- Power BI *(or replace with Excel, Tableau, etc.)*
-- DAX for KPI calculations
+- Excel
 
 ## ▶️ How to Reproduce
 
-1. Download the `.pbix` file from this repo
-2. Open it in Power BI Desktop
+1. Download file from this repo
+2. Open it in Excel
 3. Use the Year/Month filters at the top to explore the data
    
 ![Dashboard Screenshot](superstore_dashboard.png)
