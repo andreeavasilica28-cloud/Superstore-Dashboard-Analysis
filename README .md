@@ -96,7 +96,8 @@ The business is generating solid revenue but leaving money on the table (literal
 1. Download the `.pbix` file from this repo
 2. Open it in Power BI Desktop
 3. Use the Year/Month filters at the top to explore the data
-
+4. 
+![Dashboard Screenshot](superstore_dashboard.png)
 ---
 
 *Dataset: [Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) — commonly used for data analysis exercises.*
